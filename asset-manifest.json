@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://priya1514-coder.github.io/csb-zs2skw/static/css/main.f29ae65a.chunk.css",
+    "main.js": "https://priya1514-coder.github.io/csb-zs2skw/static/js/main.f399465a.chunk.js",
+    "main.js.map": "https://priya1514-coder.github.io/csb-zs2skw/static/js/main.f399465a.chunk.js.map",
+    "runtime-main.js": "https://priya1514-coder.github.io/csb-zs2skw/static/js/runtime-main.1fae6608.js",
+    "runtime-main.js.map": "https://priya1514-coder.github.io/csb-zs2skw/static/js/runtime-main.1fae6608.js.map",
+    "static/js/2.fef78c52.chunk.js": "https://priya1514-coder.github.io/csb-zs2skw/static/js/2.fef78c52.chunk.js",
+    "static/js/2.fef78c52.chunk.js.map": "https://priya1514-coder.github.io/csb-zs2skw/static/js/2.fef78c52.chunk.js.map",
+    "index.html": "https://priya1514-coder.github.io/csb-zs2skw/index.html",
+    "static/css/main.f29ae65a.chunk.css.map": "https://priya1514-coder.github.io/csb-zs2skw/static/css/main.f29ae65a.chunk.css.map",
+    "static/js/2.fef78c52.chunk.js.LICENSE.txt": "https://priya1514-coder.github.io/csb-zs2skw/static/js/2.fef78c52.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1fae6608.js",
+    "static/js/2.fef78c52.chunk.js",
+    "static/css/main.f29ae65a.chunk.css",
+    "static/js/main.f399465a.chunk.js"
+  ]
+}
